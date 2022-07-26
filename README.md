@@ -9,3 +9,6 @@ This project uses the C language as a programming base. The name primezone comes
 - Whack-a-Mole
 - Tic Tac Toe
 - PUBG Maze
+
+# How to play
+You only need to run the main function and have fun!
